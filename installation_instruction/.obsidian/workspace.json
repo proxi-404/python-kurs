@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "aa58024fbb2454b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "391b7316f5d366fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85e39aeea3bd466c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Installationsanleitung für Windows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9c97483c40f714b",
+    "type": "split",
+    "children": [
+      {
+        "id": "de31446c57ea33ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89d120e426c9cb46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6552e0b8227bd015",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8431775e73886b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4151abc5eb66caa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebea2b560dc7064d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e18fb50ed5bc5b97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Installationsanleitung für Windows.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae7e57de1d529a99",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Installationsanleitung für Windows.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4d97a06c379b68c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e74e99d615a35e93",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Installationsanleitung für Windows.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "85e39aeea3bd466c",
+  "lastOpenFiles": [
+    "VSCodeExtensions.png",
+    "Installationsanleitung für Windows.md",
+    "PythonInstallation.png",
+    "VSJupyterInstallation.png",
+    "VSCodePython.png",
+    "SuccessfulTest.png",
+    "Systemcheck.png",
+    "CodeTestOpening.png",
+    "ExplorerTestOpening.png",
+    "Installationsanleitung für Windows.pdf"
+  ]
+}
